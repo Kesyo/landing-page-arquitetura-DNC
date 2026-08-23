@@ -15,8 +15,6 @@
 
 #tituloPrincipal{
     position: absolute;
-    width: 1024px;
-    height: 72px;
     left: 62px;
     top: 206px;
     font-size: 60px;
@@ -24,8 +22,6 @@
 
 #textoSecundario{
     position: absolute;
-    width: 1024px;
-    height: 28px;
     left: 62px;
     top: 298px;
     font-size: 20px;
@@ -34,8 +30,6 @@
 
 .menuInformacional{
     background-color: #F9F9F9;
-    width: 1340px;
-    height: 200px;
     color: black;
     display: grid;
     grid-auto-flow: column;
@@ -51,14 +45,10 @@
 }
 
 .secaoFoto{
-    width: 1490px;
-    height: 475px;
 }
 
 #tituloTextoFoto{
     position: absolute;
-    width: 735px;
-    height: 161px;
     left: 77px;
     top: 940px;
     margin-left: 50px;
@@ -66,16 +56,12 @@
   
 #fotoLp{
     position: absolute;
-    width: 510px;
-    height: 605px;
     left: 876px;
     top: 781px;
 }
 
 #textoFoto{
     position: absolute;
-    width: 735px;
-    height: 161px;
     left: 77px;
     top: 1003px;
     margin-bottom: 100px;
@@ -84,8 +70,6 @@
 
 .formulario{
     position: absolute;
-    width: 1490px;
-    height: 538px;
     top: 1478px;
     background-color: #303030;
     display: flex;
@@ -98,8 +82,6 @@
 #textoFormulario{
     color: #FFFFFF;
     position: absolute;
-    width: 944px;
-    height: 48px;
     left: 248px;
     top: 50px;
     font-family: 'Inter';
@@ -112,8 +94,6 @@
 input{
     position: absolute;
     background-color: #FFFFFF;
-    width: 468px;
-    height: 72px;
     left: 466px;
     top: 150px;
     margin-bottom: 40px;
@@ -124,8 +104,6 @@ input{
 
 #inputEmail{
     position: absolute;
-    width: 468px;
-    height: 72px;
     left: 466px;
     top: 280px;
     margin-bottom: 40px;
@@ -140,8 +118,6 @@ button{
     font-weight: 600;
     color: #FFFFFF;
     font-size: 22px;
-    width: 286px;
-    height: 74px;
     left: 577px;
     top: 400px;
     border-radius: 10px;
